@@ -3,7 +3,7 @@ Estou em transição de carreira saindo de atendimento ao publico para a área d
 Iniciei curso de Full Stack Developer na Infinity School. A procura de uma oportunidade na área para aprimoramento e troca de experiências.<br>
 Acredito que a experiência que adquiri até o momento, aliada ao meu interesse em programação e tecnologia, pode ser benéfica para o rumo que escolhi seguir. Estou comprometido em continuar aprendendo e me desenvolvendo para contribuir de forma significativa no ambiente de trabalho.<br>
 <h3>Para contato:</h3>
-ailsonjunior@gmail.com
+ailsonjunior@proton.me
 
 
 <h3>As habilidades que estou desenvolvendo são:</h3>
