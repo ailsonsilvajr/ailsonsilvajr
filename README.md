@@ -1,6 +1,6 @@
 # Olá, me chamo Ailson Silva.
 Estou em transição de carreira saindo de atendimento ao publico para a área de tecnologia.<br>
-Iniciei curso de Full Stack Developer na Infinity School. A procura de uma oportunidade na área para aprimoramento e troca de experiências.<br>
+Estudante do curso Segurança da Informação no Centro Universitário Una. A procura de uma oportunidade na área para aprimoramento e troca de experiências.<br>
 Acredito que a experiência que adquiri até o momento, aliada ao meu interesse em programação e tecnologia, pode ser benéfica para o rumo que escolhi seguir. Estou comprometido em continuar aprendendo e me desenvolvendo para contribuir de forma significativa no ambiente de trabalho.<br>
 <h3>Para contato:</h3>
 ailsonjunior@proton.me
@@ -16,5 +16,6 @@ ailsonjunior@proton.me
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
